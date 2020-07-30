@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<a href="https://github.com/cesarsotovalero/cesarsotovalero">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarsotovalero&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="César's GitHub Stats" />
+</a>
+
+
 <!--
 **cesarsotovalero/cesarsotovalero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
