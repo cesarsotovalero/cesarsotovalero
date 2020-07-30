@@ -4,12 +4,15 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cesarsotovalero&show_icons=true&line_height=27&count_private=true" alt="César's GitHub Stats" />
 </a>
 <a href="https://github.com/cesarsotovalero/cesarsotovalero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsotovalero&hide=html,html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsotovalero&layout=compact" />
 </a>
 
 
 
+
 <!--
+
+
 **cesarsotovalero/cesarsotovalero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
