@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cesarsotovalero&show_icons=true&line_height=27&count_private=true" alt="César's GitHub Stats" />
 </a>
 <a href="https://github.com/cesarsotovalero/cesarsotovalero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsotovalero&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsotovalero&layout=compact" />
 </a>
 
 
