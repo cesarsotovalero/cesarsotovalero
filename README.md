@@ -9,10 +9,6 @@
 
 - 📄 Read my publications at [https://www.cesarsotovalero.net/publications](https://www.cesarsotovalero.net/publications)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cesarsotovalero" height="30" width="40" /></a>
