@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 <h1 align="center">Hi 👋, I'm César</h1>
 <h3 align="center">I'm a PhD student doing excellent research in software technology for the benefit of the Swedish industry</h3>
 
