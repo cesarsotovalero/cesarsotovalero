@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm César</h1>
-<h3 align="center">I'm a PhD student doing excellent research in Software Technology for the benefit of the Swedish industry</h3>
+<h3 align="center">I'm a PhD student doing excellent research in software technology for the benefit of the Swedish industry</h3>
 
 - 📝 I regulary write blog posts on [https://www.cesarsotovalero.net/blog](https://www.cesarsotovalero.net/blog)
 
