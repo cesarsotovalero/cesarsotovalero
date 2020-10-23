@@ -10,7 +10,7 @@
 
 - 📝 I regulary write blog posts about programming and research in [https://www.cesarsotovalero.net/blog](https://www.cesarsotovalero.net/blog)
 
-- 📄 Look at my academic publications at [https://www.cesarsotovalero.net/publications](https://www.cesarsotovalero.net/publications)
+- 📄 All my my academic publications are listed here [https://www.cesarsotovalero.net/publications](https://www.cesarsotovalero.net/publications)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarsotovalero&show_icons=true" alt="cesarsotovalero" /></p>
 
