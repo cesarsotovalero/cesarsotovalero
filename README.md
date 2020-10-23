@@ -8,7 +8,7 @@
 <p>
 <h3 align="center">I'm a PhD student at KTH doing excellent research in software technology for the benefit of the Swedish industry</h3>
 
-- 📝 I regulary write blog posts in [https://www.cesarsotovalero.net/blog](https://www.cesarsotovalero.net/blog)
+- 📝 I regulary write blog posts about programming and research in [https://www.cesarsotovalero.net/blog](https://www.cesarsotovalero.net/blog)
 
 - 📄 Look at my academic publications at [https://www.cesarsotovalero.net/publications](https://www.cesarsotovalero.net/publications)
 
