@@ -6,7 +6,7 @@
 <a href="https://stackoverflow.com/users/10480869/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="StackOverflow" height="30" width="40" /></a>
 <a href="http://feeds.feedburner.com/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="R" height="30" width="40" /></a>
 <p>
-<h3 align="center">I'm a PhD student at KTH doing excellent research in software technology for the benefit of the Swedish industry</h3>
+<h3 align="center">I'm a PhD student at KTH Royal Institute of Technology doing excellent research in software technology for the benefit of the Swedish industry</h3>
 
 - 📝 I regulary write blog posts about programming and research in [https://www.cesarsotovalero.net/blog](https://www.cesarsotovalero.net/blog)
 
