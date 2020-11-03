@@ -11,6 +11,3 @@
 - 📝 I regulary write blog posts about programming and research in [https://www.cesarsotovalero.net/blog](https://www.cesarsotovalero.net/blog)
 
 - 📄 All my my academic publications are listed in [https://www.cesarsotovalero.net/publications](https://www.cesarsotovalero.net/publications)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarsotovalero&show_icons=true" alt="cesarsotovalero" /></p>
-
