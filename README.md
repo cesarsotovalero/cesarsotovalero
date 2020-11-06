@@ -7,6 +7,7 @@
 <a href="https://stackoverflow.com/users/10480869/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="StackOverflow" height="30" width="40" /></a>
 <a href="http://feeds.feedburner.com/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="R" height="30" width="40" /></a>
 <p>
+  
 - 📝 I regulary write blog posts about programming and research in [https://www.cesarsotovalero.net/blog](https://www.cesarsotovalero.net/blog)
 
 - 📄 All my my academic publications are listed in [https://www.cesarsotovalero.net/publications](https://www.cesarsotovalero.net/publications)
