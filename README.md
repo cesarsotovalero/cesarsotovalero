@@ -8,7 +8,7 @@
 <a href="http://feeds.feedburner.com/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="R" height="30" width="40" /></a>
 <p>
   
----
+<br/><br/>
   
 - 📝 I regularly write [blog posts](https://www.cesarsotovalero.net/blog) about research and software technology
   
