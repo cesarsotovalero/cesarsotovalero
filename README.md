@@ -8,8 +8,6 @@
 <a href="http://feeds.feedburner.com/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="R" height="30" width="40" /></a>
 <p>
   
-<br/><br/>
-  
 - 📝 I regularly write [blog posts](https://www.cesarsotovalero.net/blog) about research and software technology
   
 - 🎥 You may also want to look at my [YouTube channel](https://www.youtube.com/channel/UCR4rI98w6-MqYoCS6jR9LGg)
