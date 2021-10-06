@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm César</h1>
-<h3 align="center">I'm a Ph.D. student doing excellent research in software technology</h3>
+<h3 align="center">A Ph.D. student doing research in software technology</h3>
 <p align="center" style="border-bottom: 1px solid; border-bottom-color: #D8DEE4;>
 <a href="https://linkedin.com/in/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://scholar.google.es/citations?user=jNBoowwAAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="GoogleSchoolar" height="30" width="40" /></a>
