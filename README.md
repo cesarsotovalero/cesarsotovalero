@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm César</h1>
   
-- 📝 I regularly write [blog posts](https://www.cesarsotovalero.net/blog) about research and software technology.
+- 📝 I regularly write blog posts about research and software technology [here](https://www.cesarsotovalero.net/blog).
 
-- 🗞 Here is a chronological list of my [research papers](https://www.cesarsotovalero.net/publications).
+- 🗞 I have a chronological list of all my research papers [here](https://www.cesarsotovalero.net/publications).
 
-- 🎥 You may also want to look at my [YouTube channel](https://www.youtube.com/channel/UCR4rI98w6-MqYoCS6jR9LGg).
+- 🎥 I also have a YouTube channel [here](https://www.youtube.com/channel/UCR4rI98w6-MqYoCS6jR9LGg).
 
 
 <br>
