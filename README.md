@@ -16,7 +16,7 @@
 
 - 🎥 Subscribe to my YouTube channel, all videos [here](https://www.youtube.com/@cesarsotovalero/videos).
 
-**Latest blog postsL**
+**Latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
 - [The True Value of Attending Academic Conferences](https://www.cesarsotovalero.net/blog/the-true-value-of-attending-academic-conferences.html)
 - [On the Parkinson&#39;s Law of Triviality for Computer Science Researchers](https://www.cesarsotovalero.net/blog/on-the-parkinson-law-of-triviality-for-computer-science-researchers.html)
