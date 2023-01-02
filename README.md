@@ -18,4 +18,9 @@
 
 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [The True Value of Attending Academic Conferences](https://www.cesarsotovalero.net/blog/the-true-value-of-attending-academic-conferences.html)
+- [On the Parkinson&#39;s Law of Triviality for Computer Science Researchers](https://www.cesarsotovalero.net/blog/on-the-parkinson-law-of-triviality-for-computer-science-researchers.html)
+- [My Ultimate Terminal Customizations for macOS](https://www.cesarsotovalero.net/blog/my-ultimate-terminal-customizations-for-macos.html)
+- [No One Cares About Your Research&amp;#33;](https://www.cesarsotovalero.net/blog/no-one-cares-about-your-research.html)
+- [The Dynamic Features of Java](https://www.cesarsotovalero.net/blog/the-dynamic-features-of-java.html)
 <!-- BLOG-POST-LIST:END -->
