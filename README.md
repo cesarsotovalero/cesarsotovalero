@@ -8,7 +8,7 @@
 <a href="https://stackoverflow.com/users/10480869/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="StackOverflow" height="20" width="30" /></a>
 <a href="http://feeds.feedburner.com/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="R" height="20" width="30" /></a>
 
-**You may want to**
+**You may want to:**
   
 - 📝 Read my blog posts about research and software technology, full list [here](https://www.cesarsotovalero.net/blog).
 
@@ -16,7 +16,7 @@
 
 - 🎥 Subscribe to my YouTube channel, all videos [here](https://www.youtube.com/@cesarsotovalero/videos).
 
-**Latest blog posts**
+**Latest blog postsL**
 <!-- BLOG-POST-LIST:START -->
 - [The True Value of Attending Academic Conferences](https://www.cesarsotovalero.net/blog/the-true-value-of-attending-academic-conferences.html)
 - [On the Parkinson&#39;s Law of Triviality for Computer Science Researchers](https://www.cesarsotovalero.net/blog/on-the-parkinson-law-of-triviality-for-computer-science-researchers.html)
