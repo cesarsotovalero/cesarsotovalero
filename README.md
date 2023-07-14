@@ -20,7 +20,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Let&#39;s Face It&amp;#58; Paper Figures Are Always Subject to Change](https://www.cesarsotovalero.net/blog/paper-figures-are-always-subject-to-change.html)
 - [Securing a Permanent Job in Sweden Before Completing My PhD](https://www.cesarsotovalero.net/blog/securing-a-permanent-job-in-sweden-before-completing-my-phd.html)
-- [Data Serialization/Deserialization in Java With Apache Avro](https://www.cesarsotovalero.net/blog/data-serialization-in-java-with-apache-avro.html)
+- [Data Serialization/Deserialization in Java With Apache Avro](https://www.cesarsotovalero.net/blog/data-serialization-deserialization-in-java-with-apache-avro.html)
 - [How to Write a Good Cover Letter for a Research Paper](https://www.cesarsotovalero.net/blog/how-to-write-a-good-cover-letter-for-a-research-paper.html)
 - [The True Value of Attending Academic Conferences](https://www.cesarsotovalero.net/blog/the-true-value-of-attending-academic-conferences.html)
 <!-- BLOG-POST-LIST:END -->
