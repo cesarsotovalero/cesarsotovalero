@@ -18,7 +18,7 @@
 
 **Latest blog posts:**
 <!-- BLOG-POST-LIST:START -->
-- [Surviving the AI Revolution as a Software Engineer](https://www.cesarsotovalero.net/blog/surviving-ai-as-a-software-engineer.html)
+- [Surviving the AI Revolution as a Software Engineer](https://www.cesarsotovalero.net/blog/surviving-the-ai-revolution-as-a-software-engineer.html)
 - [My PhD as a Comic](https://www.cesarsotovalero.net/blog/my-phd-as-a-comic.html)
 - [How to Give a Great Technical Presentation](https://www.cesarsotovalero.net/blog/how-to-give-a-great-technical-presentation.html)
 - [Let&#39;s Face It&amp;#58; Paper Figures Are Always Subject to Change](https://www.cesarsotovalero.net/blog/paper-figures-are-always-subject-to-change.html)
