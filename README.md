@@ -22,5 +22,5 @@
 - [A Prime on Public Key Infrastructure](https://www.cesarsotovalero.net/blog/a-prime-on-public-key-infrastructure.html)
 - [My PhD as a Comic](https://www.cesarsotovalero.net/blog/my-phd-as-a-comic.html)
 - [How to Give a Great Technical Presentation](https://www.cesarsotovalero.net/blog/how-to-give-a-great-technical-presentation.html)
-- [Let&#39;s Face It&amp;#58; Paper Figures Are Always Subject to Change](https://www.cesarsotovalero.net/blog/paper-figures-are-always-subject-to-change.html)
+- [Prompting is All We Need](https://www.cesarsotovalero.net/blog/prompting-is-all-we-need.html)
 <!-- BLOG-POST-LIST:END -->
