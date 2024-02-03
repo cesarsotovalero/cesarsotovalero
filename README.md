@@ -12,7 +12,7 @@
 
 **You may want to:**
   
-- 📝 Read my blog posts about research and software technology, full list [here](https://www.cesarsotovalero.net/blog).
+- 📕 Read my blog posts about research and software technology, full list [here](https://www.cesarsotovalero.net/blog).
 
 - 🎥 Subscribe to my YouTube channel, all videos [here](https://www.youtube.com/@cesarsotovalero/videos).
 
