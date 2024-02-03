@@ -1,4 +1,4 @@
-**Connect with me:**
+### Connect with me:
 
 <a href="https://linkedin.com/in/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="30" /></a>
 <a href="https://twitter.com/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="20" width="30" /></a>
@@ -10,7 +10,7 @@
 <a href="https://stackoverflow.com/users/10480869/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="StackOverflow" height="20" width="30" /></a>
 <a href="http://feeds.feedburner.com/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="R" height="20" width="30" /></a>
 
-**You may want to:**
+### You may want to:
   
 - 📕 Read my blog posts about research and software technology, full list [here](https://www.cesarsotovalero.net/blog).
 
@@ -18,7 +18,7 @@
 
 - 🗞 Read my research papers, full chronological list [here](https://www.cesarsotovalero.net/publications).
 
-**My latest blog posts:**
+### My latest blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Surviving the AI Revolution as a Software Engineer](https://www.cesarsotovalero.net/blog/surviving-the-ai-revolution-as-a-software-engineer.html)
 - [A Prime on Public Key Infrastructure](https://www.cesarsotovalero.net/blog/a-prime-on-public-key-infrastructure.html)
