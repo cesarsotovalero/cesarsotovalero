@@ -26,3 +26,8 @@
 - [How to Give a Great Technical Presentation](https://www.cesarsotovalero.net/blog/how-to-give-a-great-technical-presentation.html)
 - [Prompting is All We Need](https://www.cesarsotovalero.net/blog/prompting-is-all-we-need.html)
 <!-- BLOG-POST-LIST:END -->
+
+**My latest YouTube videos**
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
