@@ -27,6 +27,6 @@
 - [Prompting is All We Need](https://www.cesarsotovalero.net/blog/prompting-is-all-we-need.html)
 <!-- BLOG-POST-LIST:END -->
 
-**My latest YouTube videos**
+**My latest YouTube videos:**
 
 <!-- YOUTUBE:START --><table style="border: none;"><tr><td style="border: none;"><a href="https://www.youtube.com/watch?v=7IoXciSucw4"><img width="140px" src="https://i.ytimg.com/vi/7IoXciSucw4/mqdefault.jpg"></a></td><td style="border: none;"><a href="https://www.youtube.com/watch?v=7IoXciSucw4">Preventing Software Supply Chain Attacks With Dependency Management Best Practices</a><br/>Oct 14, 2023</td></tr></table><table style="border: none;"><tr><td style="border: none;"><a href="https://www.youtube.com/watch?v=Ub684G_aM5Q"><img width="140px" src="https://i.ytimg.com/vi/Ub684G_aM5Q/mqdefault.jpg"></a></td><td style="border: none;"><a href="https://www.youtube.com/watch?v=Ub684G_aM5Q">Debloating Java Dependencies</a><br/>Jun 18, 2023</td></tr></table><table style="border: none;"><tr><td style="border: none;"><a href="https://www.youtube.com/watch?v=HXj2B8eHmt4"><img width="140px" src="https://i.ytimg.com/vi/HXj2B8eHmt4/mqdefault.jpg"></a></td><td style="border: none;"><a href="https://www.youtube.com/watch?v=HXj2B8eHmt4">Coverage-Based Debloating for Java Bytecode</a><br/>Oct 16, 2022</td></tr></table><!-- YOUTUBE:END -->
