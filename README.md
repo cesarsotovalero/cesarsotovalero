@@ -23,11 +23,11 @@
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Doesn’t Make Me the Same Coffee](https://www.cesarsotovalero.net/blog/ai-doesnt-make-me-the-same-coffee.html)
 - [Surviving the AI Revolution as a Software Engineer](https://www.cesarsotovalero.net/blog/surviving-the-ai-revolution-as-a-software-engineer.html)
 - [A Prime on Public Key Infrastructure](https://www.cesarsotovalero.net/blog/a-prime-on-public-key-infrastructure.html)
 - [My PhD as a Comic](https://www.cesarsotovalero.net/blog/my-phd-as-a-comic.html)
 - [How to Give a Great Technical Presentation](https://www.cesarsotovalero.net/blog/how-to-give-a-great-technical-presentation.html)
-- [Prompting is All We Need](https://www.cesarsotovalero.net/blog/prompting-is-all-we-need.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest YouTube videos
