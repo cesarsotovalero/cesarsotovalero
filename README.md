@@ -27,7 +27,7 @@
 - [On the Rise, Decline, and Persistence of Web Technologies](https://www.cesarsotovalero.net/blog/the-evolution-of-the-web-from-html-to-webassembly.html)
 - [The Most Relevant Technical Skill in My Career](https://www.cesarsotovalero.net/blog/the-most-relevant-technical-skill-in-my-career.html)
 - [AI Doesn’t Make Me the Same Coffee](https://www.cesarsotovalero.net/blog/ai-doesnt-make-me-the-same-coffee.html)
-- [Surviving the AI Revolution as a Software Engineer](https://www.cesarsotovalero.net/blog/surviving-the-ai-revolution-as-a-software-engineer.html)
+- [My Ultimate Terminal Customizations for Windows](https://www.cesarsotovalero.net/blog/my-ultimate-terminal-customizations-for-windows.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest YouTube videos
