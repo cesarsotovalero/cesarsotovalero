@@ -27,7 +27,7 @@
 - [The Last Paper&#39;s Myth](https://www.cesarsotovalero.net/blog/the-last-paper-myth.html)
 - [On the Rise, Decline, and Persistence of Web Technologies](https://www.cesarsotovalero.net/blog/the-evolution-of-the-web-from-html-to-webassembly.html)
 - [The Most Relevant Technical Skill in My Career](https://www.cesarsotovalero.net/blog/the-most-relevant-technical-skill-in-my-career.html)
-- [AI Doesn’t Make Me the Same Coffee](https://www.cesarsotovalero.net/blog/ai-doesnt-make-me-the-same-coffee.html)
+- [AI Doesn&#39;t Make Me the Same Coffee](https://www.cesarsotovalero.net/blog/ai-doesnt-make-me-the-same-coffee.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest YouTube videos
