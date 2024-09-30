@@ -2,7 +2,7 @@
 
 <div style="background-color: white;">
   <a href="https://linkedin.com/in/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="30" /></a>
-  <a href="https://twitter.com/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="20" width="30" /></a>
+  <a href="https://x.com/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/x.svg" alt="Twitter" height="20" width="30" /></a>
   <a href="https://www.youtube.com/channel/UCR4rI98w6-MqYoCS6jR9LGg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="20" width="30" /></a>
   <a href="https://scholar.google.es/citations?user=jNBoowwAAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="GoogleSchoolar" height="20" width="30" /></a>
   <a href="https://orcid.org/0000-0003-0541-6411" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg" alt="ORCID" height="20" width="30" /></a>
