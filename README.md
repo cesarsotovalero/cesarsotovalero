@@ -23,11 +23,11 @@
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [From Classical ML to DNNs and GNNs for Real-Time Financial Fraud Detection - Models, architectures, evaluation metrics, and deployment considerations](https://www.cesarsotovalero.net/blog/real-time-financial-fraud-detection.html)
-- [Building GenAI Applications Today - What seems to work, what doesn&#39;t, and possibly why](https://www.cesarsotovalero.net/blog/building-genai-applications-today.html)
-- [Why GenAI Will NOT Replace Software Engineers - For now...](https://www.cesarsotovalero.net/blog/why-genai-will-not-replace-software-engineers-just-yet.html)
-- [The Not-So-Strange Case of Cargo Cult in Computer Science Research - Are we mimicking scientific progress without true innovation?](https://www.cesarsotovalero.net/blog/the-not-so-strange-case-of-cargo-cult-in-computer-science-research.html)
-- [Some Things to Remember Before Acting Pretentiously - And a few personal thoughts on the value of sincere humility](https://www.cesarsotovalero.net/blog/some-things-to-remember-before-acting-pretentiously.html)
+- [From Classical ML to DNNs and GNNs for Real-Time Financial Fraud Detection](https://www.cesarsotovalero.net/blog/real-time-financial-fraud-detection.html)
+- [Building GenAI Applications Today](https://www.cesarsotovalero.net/blog/building-genai-applications-today.html)
+- [Why GenAI Will NOT Replace Software Engineers](https://www.cesarsotovalero.net/blog/why-genai-will-not-replace-software-engineers-just-yet.html)
+- [The Not-So-Strange Case of Cargo Cult in Computer Science Research](https://www.cesarsotovalero.net/blog/the-not-so-strange-case-of-cargo-cult-in-computer-science-research.html)
+- [Some Things to Remember Before Acting Pretentiously](https://www.cesarsotovalero.net/blog/some-things-to-remember-before-acting-pretentiously.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest YouTube videos
