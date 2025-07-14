@@ -23,11 +23,11 @@
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On The Validation Techniques for Fraud Detection Models](https://www.cesarsotovalero.net/blog/on-the-validation-techniques-for-fraud-detection-models.html)
 - [Evaluation Metrics for Real-Time Financial Fraud Detection ML Models](https://www.cesarsotovalero.net/blog/evaluation-metrics-for-real-time-financial-fraud-detection-ml-models-copy.html)
 - [From Classical ML to DNNs and GNNs for Real-Time Financial Fraud Detection](https://www.cesarsotovalero.net/blog/from-classical-ml-to-dnns-and-gnns-for-real-time-financial-fraud-detection.html)
 - [Building GenAI Applications Today](https://www.cesarsotovalero.net/blog/building-genai-applications-today.html)
 - [Why GenAI Will NOT Replace Software Engineers](https://www.cesarsotovalero.net/blog/why-genai-will-not-replace-software-engineers-just-yet.html)
+- [The Not-So-Strange Case of Cargo Cult in Computer Science Research](https://www.cesarsotovalero.net/blog/the-not-so-strange-case-of-cargo-cult-in-computer-science-research.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest YouTube videos
