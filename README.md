@@ -23,11 +23,11 @@
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When Answers Are Cheap, Questions Are Gold](https://www.cesarsotovalero.net/blog/when-answers-are-cheap-questions-are-gold.html)
 - [Consistently Measure Your Consistency to Beat Talent](https://www.cesarsotovalero.net/blog/consistently-measure-consistency-to-beat-talent.html)
 - [I’m Switching to Python and Actually Liking It](https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html)
 - [Evaluation Metrics for Real-Time Financial Fraud Detection ML Models](https://www.cesarsotovalero.net/blog/evaluation-metrics-for-real-time-financial-fraud-detection-ml-models.html)
 - [From Classical ML to DNNs and GNNs for Real-Time Financial Fraud Detection](https://www.cesarsotovalero.net/blog/from-classical-ml-to-dnns-and-gnns-for-real-time-financial-fraud-detection.html)
-- [Building GenAI Applications Today](https://www.cesarsotovalero.net/blog/building-genai-applications-today.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest YouTube videos
