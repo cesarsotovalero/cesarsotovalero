@@ -23,7 +23,7 @@
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Creativity Just Became the Most Practical Skill](https://www.cesarsotovalero.net/blog/creativity-just-became-the-most-practical-skill.html)
+- [Why Creativity Just Became the Most Practical Skill](https://www.cesarsotovalero.net/blog/creativity-just-became-the-most-practical-skill.html)
 - [When Answers Get Cheaper, Questions Are Gold](https://www.cesarsotovalero.net/blog/when-answers-get-cheaper-questions-are-gold.html)
 - [Consistently Measure Your Consistency to Beat Talent](https://www.cesarsotovalero.net/blog/consistently-measure-consistency-to-beat-talent.html)
 - [I’m Switching to Python and Actually Liking It](https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html)
