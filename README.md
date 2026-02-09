@@ -1,71 +1,61 @@
 ### Connect with me:
 
-<div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
-
-  <a href="https://linkedin.com/in/cesarsotovalero" target="_blank" rel="noreferrer">
-    <img alt="LinkedIn" height="20" width="30"
-         src="https://cdn.simpleicons.org/linkedin/0A66C2#gh-light-mode-only" />
-    <img alt="LinkedIn" height="20" width="30"
-         src="https://cdn.simpleicons.org/linkedin/FFFFFF#gh-dark-mode-only" />
+<p>
+  <a href="https://linkedin.com/in/cesarsotovalero" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/white">
+      <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="20" width="30" />
+    </picture>
   </a>
-
-  <a href="https://x.com/cesarsotovalero" target="_blank" rel="noreferrer">
-    <img alt="X" height="20" width="30"
-         src="https://cdn.simpleicons.org/x/000000#gh-light-mode-only" />
-    <img alt="X" height="20" width="30"
-         src="https://cdn.simpleicons.org/x/FFFFFF#gh-dark-mode-only" />
+  <a href="https://x.com/cesarsotovalero" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
+      <img align="center" src="https://cdn.simpleicons.org/x/000000" alt="X" height="20" width="30" />
+    </picture>
   </a>
-
-  <a href="https://www.youtube.com/channel/UCR4rI98w6-MqYoCS6jR9LGg" target="_blank" rel="noreferrer">
-    <img alt="YouTube" height="20" width="30"
-         src="https://cdn.simpleicons.org/youtube/FF0000#gh-light-mode-only" />
-    <img alt="YouTube" height="20" width="30"
-         src="https://cdn.simpleicons.org/youtube/FFFFFF#gh-dark-mode-only" />
+  <a href="https://www.youtube.com/channel/UCR4rI98w6-MqYoCS6jR9LGg" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/youtube/white">
+      <img align="center" src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="20" width="30" />
+    </picture>
   </a>
-
-  <a href="https://scholar.google.es/citations?user=jNBoowwAAAAJ&hl=en" target="_blank" rel="noreferrer">
-    <img alt="Google Scholar" height="20" width="30"
-         src="https://cdn.simpleicons.org/googlescholar/4285F4#gh-light-mode-only" />
-    <img alt="Google Scholar" height="20" width="30"
-         src="https://cdn.simpleicons.org/googlescholar/FFFFFF#gh-dark-mode-only" />
+  <a href="https://scholar.google.es/citations?user=jNBoowwAAAAJ&hl=en" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlescholar/white">
+      <img align="center" src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="Google Scholar" height="20" width="30" />
+    </picture>
   </a>
-
-  <a href="https://orcid.org/0000-0003-0541-6411" target="_blank" rel="noreferrer">
-    <img alt="ORCID" height="20" width="30"
-         src="https://cdn.simpleicons.org/orcid/A6CE39#gh-light-mode-only" />
-    <img alt="ORCID" height="20" width="30"
-         src="https://cdn.simpleicons.org/orcid/FFFFFF#gh-dark-mode-only" />
+  <a href="https://orcid.org/0000-0003-0541-6411" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/orcid/white">
+      <img align="center" src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" height="20" width="30" />
+    </picture>
   </a>
-
-  <a href="https://dblp.uni-trier.de/pid/192/3923.html" target="_blank" rel="noreferrer">
-    <img alt="dblp" height="20" width="30"
-         src="https://cdn.simpleicons.org/dblp/004F9F#gh-light-mode-only" />
-    <img alt="dblp" height="20" width="30"
-         src="https://cdn.simpleicons.org/dblp/FFFFFF#gh-dark-mode-only" />
+  <a href="https://dblp.uni-trier.de/pid/192/3923.html" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/dblp/white">
+      <img align="center" src="https://cdn.simpleicons.org/dblp/004F9F" alt="dblp" height="20" width="30" />
+    </picture>
   </a>
-
-  <a href="https://www.researchgate.net/profile/Cesar_Soto-Valero" target="_blank" rel="noreferrer">
-    <img alt="ResearchGate" height="20" width="30"
-         src="https://cdn.simpleicons.org/researchgate/00CCBB#gh-light-mode-only" />
-    <img alt="ResearchGate" height="20" width="30"
-         src="https://cdn.simpleicons.org/researchgate/FFFFFF#gh-dark-mode-only" />
+  <a href="https://www.researchgate.net/profile/Cesar_Soto-Valero" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/researchgate/white">
+      <img align="center" src="https://cdn.simpleicons.org/researchgate/00CCBB" alt="ResearchGate" height="20" width="30" />
+    </picture>
   </a>
-
-  <a href="https://stackoverflow.com/users/10480869/cesarsotovalero" target="_blank" rel="noreferrer">
-    <img alt="Stack Overflow" height="20" width="30"
-         src="https://cdn.simpleicons.org/stackoverflow/F58025#gh-light-mode-only" />
-    <img alt="Stack Overflow" height="20" width="30"
-         src="https://cdn.simpleicons.org/stackoverflow/FFFFFF#gh-dark-mode-only" />
+  <a href="https://stackoverflow.com/users/10480869/cesarsotovalero" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stackoverflow/white">
+      <img align="center" src="https://cdn.simpleicons.org/stackoverflow/F58025" alt="Stack Overflow" height="20" width="30" />
+    </picture>
   </a>
-
-  <a href="http://feeds.feedburner.com/cesarsotovalero" target="_blank" rel="noreferrer">
-    <img alt="RSS" height="20" width="30"
-         src="https://cdn.simpleicons.org/rss/FF6600#gh-light-mode-only" />
-    <img alt="RSS" height="20" width="30"
-         src="https://cdn.simpleicons.org/rss/FFFFFF#gh-dark-mode-only" />
+  <a href="http://feeds.feedburner.com/cesarsotovalero" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rss/white">
+      <img align="center" src="https://cdn.simpleicons.org/rss/FFA500" alt="RSS" height="20" width="30" />
+    </picture>
   </a>
-
-</div>
+</p>
 
 
 ### You may want to:
