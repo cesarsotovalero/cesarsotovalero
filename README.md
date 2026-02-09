@@ -19,6 +19,6 @@
 - [Consistently Measure Your Consistency to Beat Talent](https://www.cesarsotovalero.net/blog/consistently-measure-consistency-to-beat-talent.html)
 <!-- BLOG-POST-LIST:END -->
 
-### My latest YouTube videos
+### My latest YouTube videos:
 
 <!-- YOUTUBE:START --><table style="border: none;"><tr><td style="border: none;"><a href="https://www.youtube.com/watch?v=4vltll8lO1g"><img width="140px" src="https://i.ytimg.com/vi/4vltll8lO1g/mqdefault.jpg"></a></td><td style="border: none;"><a href="https://www.youtube.com/watch?v=4vltll8lO1g">The Simple Architecture of AI Agents</a><br/>Feb 7, 2026</td></tr></table><table style="border: none;"><tr><td style="border: none;"><a href="https://www.youtube.com/watch?v=0JaJmRFn8NU"><img width="140px" src="https://i.ytimg.com/vi/0JaJmRFn8NU/mqdefault.jpg"></a></td><td style="border: none;"><a href="https://www.youtube.com/watch?v=0JaJmRFn8NU">Context Engineering: The #1 Skill for Building Reliable AI Agents</a><br/>Feb 2, 2026</td></tr></table><table style="border: none;"><tr><td style="border: none;"><a href="https://www.youtube.com/watch?v=cCh5GKsipAM"><img width="140px" src="https://i.ytimg.com/vi/cCh5GKsipAM/mqdefault.jpg"></a></td><td style="border: none;"><a href="https://www.youtube.com/watch?v=cCh5GKsipAM">Why Software Engineers Struggle With AI Systems</a><br/>Jan 24, 2026</td></tr></table><!-- YOUTUBE:END -->
