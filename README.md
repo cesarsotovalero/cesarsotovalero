@@ -1,18 +1,74 @@
-### Connect with me
+### Connect with me:
 
-<div style="background-color: white;">
-  <a href="https://linkedin.com/in/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="30" /></a>
-  <a href="https://x.com/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/x.svg" alt="Twitter" height="20" width="30" /></a>
-  <a href="https://www.youtube.com/channel/UCR4rI98w6-MqYoCS6jR9LGg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="20" width="30" /></a>
-  <a href="https://scholar.google.es/citations?user=jNBoowwAAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="GoogleSchoolar" height="20" width="30" /></a>
-  <a href="https://orcid.org/0000-0003-0541-6411" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg" alt="ORCID" height="20" width="30" /></a>
-  <a href="https://dblp.uni-trier.de/pid/192/3923.html" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dblp.svg" alt="dblp" height="20" width="30" /></a>
-  <a href="https://www.researchgate.net/profile/Cesar_Soto-Valero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="ResearchGate" height="20" width="30" /></a>
-  <a href="https://stackoverflow.com/users/10480869/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="StackOverflow" height="20" width="30" /></a>
-  <a href="http://feeds.feedburner.com/cesarsotovalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="R" height="20" width="30" /></a>
+<div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
+
+  <a href="https://linkedin.com/in/cesarsotovalero" target="_blank" rel="noreferrer">
+    <img alt="LinkedIn" height="20" width="30"
+         src="https://cdn.simpleicons.org/linkedin/0A66C2#gh-light-mode-only" />
+    <img alt="LinkedIn" height="20" width="30"
+         src="https://cdn.simpleicons.org/linkedin/FFFFFF#gh-dark-mode-only" />
+  </a>
+
+  <a href="https://x.com/cesarsotovalero" target="_blank" rel="noreferrer">
+    <img alt="X" height="20" width="30"
+         src="https://cdn.simpleicons.org/x/000000#gh-light-mode-only" />
+    <img alt="X" height="20" width="30"
+         src="https://cdn.simpleicons.org/x/FFFFFF#gh-dark-mode-only" />
+  </a>
+
+  <a href="https://www.youtube.com/channel/UCR4rI98w6-MqYoCS6jR9LGg" target="_blank" rel="noreferrer">
+    <img alt="YouTube" height="20" width="30"
+         src="https://cdn.simpleicons.org/youtube/FF0000#gh-light-mode-only" />
+    <img alt="YouTube" height="20" width="30"
+         src="https://cdn.simpleicons.org/youtube/FFFFFF#gh-dark-mode-only" />
+  </a>
+
+  <a href="https://scholar.google.es/citations?user=jNBoowwAAAAJ&hl=en" target="_blank" rel="noreferrer">
+    <img alt="Google Scholar" height="20" width="30"
+         src="https://cdn.simpleicons.org/googlescholar/4285F4#gh-light-mode-only" />
+    <img alt="Google Scholar" height="20" width="30"
+         src="https://cdn.simpleicons.org/googlescholar/FFFFFF#gh-dark-mode-only" />
+  </a>
+
+  <a href="https://orcid.org/0000-0003-0541-6411" target="_blank" rel="noreferrer">
+    <img alt="ORCID" height="20" width="30"
+         src="https://cdn.simpleicons.org/orcid/A6CE39#gh-light-mode-only" />
+    <img alt="ORCID" height="20" width="30"
+         src="https://cdn.simpleicons.org/orcid/FFFFFF#gh-dark-mode-only" />
+  </a>
+
+  <a href="https://dblp.uni-trier.de/pid/192/3923.html" target="_blank" rel="noreferrer">
+    <img alt="dblp" height="20" width="30"
+         src="https://cdn.simpleicons.org/dblp/004F9F#gh-light-mode-only" />
+    <img alt="dblp" height="20" width="30"
+         src="https://cdn.simpleicons.org/dblp/FFFFFF#gh-dark-mode-only" />
+  </a>
+
+  <a href="https://www.researchgate.net/profile/Cesar_Soto-Valero" target="_blank" rel="noreferrer">
+    <img alt="ResearchGate" height="20" width="30"
+         src="https://cdn.simpleicons.org/researchgate/00CCBB#gh-light-mode-only" />
+    <img alt="ResearchGate" height="20" width="30"
+         src="https://cdn.simpleicons.org/researchgate/FFFFFF#gh-dark-mode-only" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/10480869/cesarsotovalero" target="_blank" rel="noreferrer">
+    <img alt="Stack Overflow" height="20" width="30"
+         src="https://cdn.simpleicons.org/stackoverflow/F58025#gh-light-mode-only" />
+    <img alt="Stack Overflow" height="20" width="30"
+         src="https://cdn.simpleicons.org/stackoverflow/FFFFFF#gh-dark-mode-only" />
+  </a>
+
+  <a href="http://feeds.feedburner.com/cesarsotovalero" target="_blank" rel="noreferrer">
+    <img alt="RSS" height="20" width="30"
+         src="https://cdn.simpleicons.org/rss/FF6600#gh-light-mode-only" />
+    <img alt="RSS" height="20" width="30"
+         src="https://cdn.simpleicons.org/rss/FFFFFF#gh-dark-mode-only" />
+  </a>
+
 </div>
 
-### You may want to
+
+### You may want to:
   
 - 📕 Read my blog posts about research and software technology, full list [here](https://www.cesarsotovalero.net/blog).
 
@@ -20,7 +76,7 @@
 
 - 🗞 Read my research papers, full chronological list [here](https://www.cesarsotovalero.net/publications).
 
-### My latest blog posts
+### My latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [SDD and the Future of Software Development](https://www.cesarsotovalero.net/blog/sdd-and-the-future-of-software-development.html)
