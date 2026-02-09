@@ -1,69 +1,58 @@
 ### Connect with me:
 
 <p>
-  <a href="https://linkedin.com/in/cesarsotovalero" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/white">
-      <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="20" width="30" />
-    </picture>
-  </a>
-  <a href="https://x.com/cesarsotovalero" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
-      <img align="center" src="https://cdn.simpleicons.org/x/000000" alt="X" height="20" width="30" />
-    </picture>
-  </a>
-  <a href="https://www.youtube.com/channel/UCR4rI98w6-MqYoCS6jR9LGg" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/youtube/white">
-      <img align="center" src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="20" width="30" />
-    </picture>
-  </a>
-  <a href="https://scholar.google.es/citations?user=jNBoowwAAAAJ&hl=en" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlescholar/white">
-      <img align="center" src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="Google Scholar" height="20" width="30" />
-    </picture>
-  </a>
-  <a href="https://orcid.org/0000-0003-0541-6411" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/orcid/white">
-      <img align="center" src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" height="20" width="30" />
-    </picture>
-  </a>
-  <a href="https://dblp.uni-trier.de/pid/192/3923.html" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/dblp/white">
-      <img align="center" src="https://cdn.simpleicons.org/dblp/004F9F" alt="dblp" height="20" width="30" />
-    </picture>
-  </a>
-  <a href="https://www.researchgate.net/profile/Cesar_Soto-Valero" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/researchgate/white">
-      <img align="center" src="https://cdn.simpleicons.org/researchgate/00CCBB" alt="ResearchGate" height="20" width="30" />
-    </picture>
-  </a>
-  <a href="https://stackoverflow.com/users/10480869/cesarsotovalero" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stackoverflow/white">
-      <img align="center" src="https://cdn.simpleicons.org/stackoverflow/F58025" alt="Stack Overflow" height="20" width="30" />
-    </picture>
-  </a>
-  <a href="http://feeds.feedburner.com/cesarsotovalero" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rss/white">
-      <img align="center" src="https://cdn.simpleicons.org/rss/FFA500" alt="RSS" height="20" width="30" />
-    </picture>
-  </a>
+   <a href="https://linkedin.com/in/cesarsotovalero" target="blank">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/white"><img
+            src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="30" />
+      </picture>
+   </a>&nbsp;&nbsp;<a href="https://x.com/cesarsotovalero" target="blank">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white"><img
+            src="https://cdn.simpleicons.org/x/000000" alt="X" height="30" width="30" />
+      </picture>
+   </a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCR4rI98w6-MqYoCS6jR9LGg" target="blank">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/youtube/white"><img
+            src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="30" width="30" />
+      </picture>
+   </a>&nbsp;&nbsp;<a href="https://scholar.google.es/citations?user=jNBoowwAAAAJ&hl=en" target="blank">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlescholar/white"><img
+            src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="Google Scholar" height="30" width="30" />
+      </picture>
+   </a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0003-0541-6411" target="blank">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/orcid/white"><img
+            src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" height="30" width="30" />
+      </picture>
+   </a>&nbsp;&nbsp;<a href="https://dblp.uni-trier.de/pid/192/3923.html" target="blank">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/dblp/white"><img
+            src="https://cdn.simpleicons.org/dblp/004F9F" alt="dblp" height="30" width="30" />
+      </picture>
+   </a>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Cesar_Soto-Valero" target="blank">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/researchgate/white"><img
+            src="https://cdn.simpleicons.org/researchgate/00CCBB" alt="ResearchGate" height="30" width="30" />
+      </picture>
+   </a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/10480869/cesarsotovalero" target="blank">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stackoverflow/white"><img
+            src="https://cdn.simpleicons.org/stackoverflow/F58025" alt="Stack Overflow" height="30" width="30" />
+      </picture>
+   </a>&nbsp;&nbsp;<a href="http://feeds.feedburner.com/cesarsotovalero" target="blank">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rss/white"><img
+            src="https://cdn.simpleicons.org/rss/FFA500" alt="RSS" height="30" width="30" />
+      </picture>
+   </a>
 </p>
-
 
 ### You may want to:
   
 - 📕 Read my blog posts about research and software technology, full list [here](https://www.cesarsotovalero.net/blog).
-
 - 🎥 Subscribe to my YouTube channel, all videos [here](https://www.youtube.com/@cesarsotovalero/videos).
-
 - 🗞 Read my research papers, full chronological list [here](https://www.cesarsotovalero.net/publications).
 
 ### My latest blog posts:
