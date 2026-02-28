@@ -1,6 +1,6 @@
 ### Connect with me:
 
-[LinkedIn ↗](https://linkedin.com/in/cesarsotovalero) • [X ↗](https://x.com/cesarsotovalero) • [YouTube ↗](https://www.youtube.com/channel/UCR4rI98w6-MqYoCS6jR9LGg) • [Google Scholar ↗](https://scholar.google.es/citations?user=jNBoowwAAAAJ&hl=en) • [ORCID ↗](https://orcid.org/0000-0003-0541-6411) • [DBLP ↗](https://dblp.uni-trier.de/pid/192/3923.html) • [ResearchGate ↗](https://www.researchgate.net/profile/Cesar_Soto-Valero) • [Stack Overflow ↗](https://stackoverflow.com/users/10480869/cesarsotovalero) • [RSS ↗](http://feeds.feedburner.com/cesarsotovalero)
+[LinkedIn ↗](https://linkedin.com/in/cesarsotovalero) • [YouTube ↗](https://www.youtube.com/channel/UCR4rI98w6-MqYoCS6jR9LGg) • [Google Scholar ↗](https://scholar.google.es/citations?user=jNBoowwAAAAJ&hl=en) • [ORCID ↗](https://orcid.org/0000-0003-0541-6411) • [DBLP ↗](https://dblp.uni-trier.de/pid/192/3923.html) • [ResearchGate ↗](https://www.researchgate.net/profile/Cesar_Soto-Valero) • [X ↗](https://x.com/cesarsotovalero) • [Stack Overflow ↗](https://stackoverflow.com/users/10480869/cesarsotovalero) • [RSS ↗](http://feeds.feedburner.com/cesarsotovalero)
 
 
 ### You may want to:
