@@ -12,11 +12,11 @@
 ### My latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Reading Financial Documents with AI](https://www.cesarsotovalero.net/blog/reading-financial-documents-with-ai.html)
 - [SDD and the Future of Software Development](https://www.cesarsotovalero.net/blog/sdd-and-the-future-of-software-development.html)
 - [Projections for Data-Related Roles in The AI Era](https://www.cesarsotovalero.net/blog/projections-for-data-related-roles-in-the-ai-era.html)
 - [Why Creativity Just Became the Most Practical Skill](https://www.cesarsotovalero.net/blog/creativity-just-became-the-most-practical-skill.html)
 - [When Answers Get Cheaper, Questions Are Gold](https://www.cesarsotovalero.net/blog/when-answers-get-cheaper-questions-are-gold.html)
-- [Consistently Measure Your Consistency to Beat Talent](https://www.cesarsotovalero.net/blog/consistently-measure-consistency-to-beat-talent.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest YouTube videos:
