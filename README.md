@@ -12,11 +12,11 @@
 ### My latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Model Is a Dependency](https://www.cesarsotovalero.net/blog/your-model-is-a-dependency.html)
 - [Teaching Financial AI Agents to Say “I Don’t Know”](https://www.cesarsotovalero.net/blog/teaching-financial-ai-to-say-i-dont-know.html)
 - [Reading Financial Documents with AI](https://www.cesarsotovalero.net/blog/reading-financial-documents-with-ai.html)
 - [SDD and the Future of Software Development](https://www.cesarsotovalero.net/blog/sdd-and-the-future-of-software-development.html)
 - [Projections for Data-Related Roles in The AI Era](https://www.cesarsotovalero.net/blog/projections-for-data-related-roles-in-the-ai-era.html)
-- [Why Creativity Just Became the Most Practical Skill](https://www.cesarsotovalero.net/blog/creativity-just-became-the-most-practical-skill.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest YouTube videos:
